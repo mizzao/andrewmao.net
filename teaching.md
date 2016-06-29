@@ -1,10 +1,6 @@
 ---
-id: 6
 title: Teaching
-date: 2010-03-04T21:48:56+00:00
-author: mizzao
 layout: page
-guid: http://www.mizzao.tk/blog/?page_id=6
 ---
 ### SPRING 2013
 

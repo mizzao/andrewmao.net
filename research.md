@@ -1,10 +1,6 @@
 ---
-id: 5
 title: Papers
-date: 2010-03-04T21:46:22+00:00
-author: mizzao
 layout: page
-guid: http://www.mizzao.tk/blog/research
 ---
 ### Refereed publications
 
@@ -18,7 +14,7 @@ Andrew Mao, Ece Kamar, and Eric Horvitz. **Why Stop Now? Predicting Worker Enga
 
 Andrew Mao, Ariel D. Procaccia, and Yiling Chen. **Better Human Computation Through Principled Voting.** In the _Twenty-Seventh Conference on Artificial Intelligence_ (AAAI 2013). [ <a href="https://dl.dropboxusercontent.com/u/13229094/papers/voting.pdf" target="_blank">.pdf</a> ] (This paper supersedes the HCOMP 2012 paper below.)
 
-Thomas Pfeiffer, Xi Alice Gao, Andrew Mao, Yiling Chen, and David G. Rand. **Adaptive Information Polling and Aggregation.** In the  _Twenty-Sixth Conference on Artificial Intelligence_ (AAAI 2012)_._ [ [.pdf](http://www.andrewmao.net/blog/wp-content/uploads/2010/03/adaptivepolling_AIW2012.pdf) ]_
+Thomas Pfeiffer, Xi Alice Gao, Andrew Mao, Yiling Chen, and David G. Rand. **Adaptive Information Polling and Aggregation.** In the  _Twenty-Sixth Conference on Artificial Intelligence_ (AAAI 2012)_._ [ [.pdf](https://dl.dropboxusercontent.com/u/13229094/papers/adaptivepolling_AIW2012.pdf) ]_
   
 _ 
 
