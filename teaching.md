@@ -1,7 +1,7 @@
 ---
-title: Teaching
 layout: page
 ---
+
 ### SPRING 2013
 
 I am currently a teaching fellow for [CS 181](http://www.seas.harvard.edu/courses/cs181/), an awesome course on machine learning taught by a great professor. It&#8217;s one of the few classes that combines mathematics (probability and statistics) with computer programming, and moreover is a great intro to one of the most interesting disciplines in computer science.
