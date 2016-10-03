@@ -4,7 +4,10 @@ layout: page
 ---
 ### Refereed publications
 
-Xi Alice Gao, Andrew Mao, Yiling Chen, and Ryan P. Adams. **Trick or Treat: Putting Peer Prediction to the Test. **In the_ 15th ACM Conference on Economics and Computation_ (EC 2014). [ <a href="https://dl.dropboxusercontent.com/u/13229094/papers/EC13_peerprediction.pdf" target="_blank">.pdf</a> ]  (This supersedes the COBE 2013 paper below.)
+Andrew Mao, Winter A. Mason, Siddharth Suri, and Duncan J. Watts. **An Experimental Study of Team Size and Performance on a Complex Task.** PLoS ONE 11(4):e0153048, 2016. [ [link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153048) ]
+
+Xi Alice Gao, Andrew Mao, Yiling Chen, and Ryan P. Adams. **Trick or Treat: Putting Peer Prediction to the Test. **In the _15th ACM Conference on Economics and Computation_ (EC 2014). [ <a 
+href="https://dl.dropboxusercontent.com/u/13229094/papers/EC13_peerprediction.pdf" target="_blank">.pdf</a> ]  (This supersedes the COBE 2013 paper below.)
 
 Micah Sherr, Harjot Gill, Taher Aquil Saeed, Andrew Mao, William R. Marczak, Saravana Soundararajan, Wenchao Zhou, Boon Thau Loo, and Matt Blaze. **The Design and Implementation of the A3** **Application-Aware Anonymity Platform.** In _Elsevier Computer Networks_, 58:206-227, February 2014. [ [.bib](https://security.cs.georgetown.edu/~msherr/reviewed_bib.html#a3-net-journal) ]
 
@@ -14,17 +17,19 @@ Andrew Mao, Ece Kamar, and Eric Horvitz. **Why Stop Now? Predicting Worker Enga
 
 Andrew Mao, Ariel D. Procaccia, and Yiling Chen. **Better Human Computation Through Principled Voting.** In the _Twenty-Seventh Conference on Artificial Intelligence_ (AAAI 2013). [ <a href="https://dl.dropboxusercontent.com/u/13229094/papers/voting.pdf" target="_blank">.pdf</a> ] (This paper supersedes the HCOMP 2012 paper below.)
 
-Thomas Pfeiffer, Xi Alice Gao, Andrew Mao, Yiling Chen, and David G. Rand. **Adaptive Information Polling and Aggregation.** In the  _Twenty-Sixth Conference on Artificial Intelligence_ (AAAI 2012)_._ [ [.pdf](https://dl.dropboxusercontent.com/u/13229094/papers/adaptivepolling_AIW2012.pdf) ]_
-  
-_ 
+Thomas Pfeiffer, Xi Alice Gao, Andrew Mao, Yiling Chen, and David G. Rand. **Adaptive Information Polling and Aggregation.** In the _Twenty-Sixth Conference on Artificial Intelligence_ (AAAI 2012). [ [.pdf](https://dl.dropboxusercontent.com/u/13229094/papers/adaptivepolling_AIW2012.pdf) ]  
 
-Micah Sherr, Andrew Mao, William R. Marczak, Wenchao Zhou, Boon Thau Loo, and Matt Blaze. **A3: An Extensible Platform for Application-Aware Anonymity.** In _17th Annual Network and Distributed System Security Symposium_ (NDSS 2010). [ <a href="http://www.chopsticksandlox.com/papers/a3-ndss.pdf" target="_blank">.pdf</a> | <a href="http://www.cs.georgetown.edu/~msherr/reviewed_bib.html#a3-ndss" target="_blank">.bib</a> ]
+Micah Sherr, Andrew Mao, William R. Marczak, Wenchao Zhou, Boon Thau Loo, and Matt Blaze. **A3: An Extensible Platform for Application-Aware Anonymity.** In _17th Annual Network and Distributed System Security Symposium_ (NDSS 2010). [ <a href="http://www.chopsticksandlox.com/papers/a3-ndss.pdf" target="_blank">.pdf</a> <a href="http://www.cs.georgetown.edu/~msherr/reviewed_bib.html#a3-ndss" target="_blank">.bib</a> ]
 
 ### Working Papers
 
-Andrew Mao, Hossein Azari Soufiani, Yiling Chen, and David C. Parkes. **Capturing**
-  
-**Variation and Uncertainty in Human Judgment.** [ <a href="http://arxiv.org/abs/1311.0251" target="_blank">arXiv</a> ]
+Andrew Mao, Lili Dworkin, Siddharth Suri, and Duncan J. Watts
+**Resilient Cooperators Stabilize Long-Run Cooperation in the Finitely 
+Repeated Prisoner's Dilemma**.
+[ [preprint](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2756249) ]
+
+Andrew Mao, Hossein Azari Soufiani, Yiling Chen, and David C. Parkes. 
+**Capturing Variation and Uncertainty in Human Judgment.** [ <a href="http://arxiv.org/abs/1311.0251" target="_blank">preprint</a> ]
 
 Andrew Mao, David Parkes, Ariel Procaccia, and Haoqi Zhang. **Human Computation and Multiagent Systems: An Algorithmic Perspective.**
 

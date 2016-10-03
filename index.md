@@ -1,10 +1,9 @@
 ---
-title: About
 layout: page
-permalink: about
 ---
 
 ![headshot]({{ github.site.url }}/assets/headshot.jpg)
+{: .image-float-left }
 
 I am currently a postdoc at [Microsoft Research NYC][msrnyc], with a focus in
 computational and experimental social science.

@@ -47,7 +47,19 @@ $on-laptop:        800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
-        "layout",
-        "syntax-highlighting"
+  "base",
+  "layout",
+  "syntax-highlighting",
+  "svg-icons"
 ;
+
+/*
+ * Custom stuff
+ */
+
+// For making images inline
+.image-float-left {
+  float: left;
+  margin-right: 20px;
+  width: 40%;
+}
