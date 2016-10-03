@@ -9,11 +9,26 @@
 title: Andrew Mao
 email: mizzao@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Researcher, Hacker, and Foodie
+  Always curious, sometimes foolish.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://www.andrewmao.net # the base hostname & protocol for your site
-twitter_username: mizzao
-github_username:  mizzao
 
 # Build settings
 markdown: kramdown
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email: mizzao@gmail.com
+  facebook:
+  flickr:
+  github: mizzao
+  instagram: chairman.maos.chicken
+  linkedin: mizzao
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: mizzao
+  # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/586086/andrew-mao
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
