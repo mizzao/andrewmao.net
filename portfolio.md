@@ -3,9 +3,9 @@ title: Portfolio
 layout: page
 ---
 
-I love to learn new things and figure out the best way to get something done,
- and I enjoy working with everything from software to hardware to physical 
- things. Here are a selection of various projects I've worked on.
+I love to learn new things and figure out the best way to get something done.
+Here are various projects I've worked on; everything from software and data to 
+physical things.
 
 ****
 {: .clearfix}
@@ -30,11 +30,55 @@ for social science.
 ### [Long-run Cooperation][pd-link]
 
 What happens to cooperation when a group of people are put in a social 
-dilemma for a long time? Our **month-long** prisoner's dilemma experiment 
-sought to find out.    
+dilemma for a long time? We ran a **month-long** prisoner's dilemma experiment 
+to find out.    
 
 [pd-img]: /assets/pd.png
 [pd-link]: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2756249
+
+****
+{: .clearfix}
+
+[![Crisis Mapping][cm-img]][cm-link]
+{: .image-float-left } 
+
+### [Crisis Mapping][cm-link]
+
+In collective intelligence, what happens to productivity and efficiency as 
+teams become bigger?   
+
+[cm-img]: http://share.gifyoutube.com/mLnMWR.gif
+[cm-link]: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153048 
+
+****
+{: .clearfix}
+
+<iframe src="http://githubbadge.appspot.com/mizzao"
+  class="image-float-left"
+  style="border: 0; overflow: hidden;" frameBorder="0">
+</iframe>
+
+### [Open-source Software][oss-link]
+
+I enjoy contributing to the open-source community and releasing 
+well-designed software that is useful to others. Check out my projects on 
+GitHub.
+
+[oss-link]: https://github.com/mizzao
+
+****
+{: .clearfix}
+
+[![Stack Overflow][so-img]][so-link]
+{: .image-float-left }
+
+### [StackOverflow][so-link]
+
+I try to document things as I learn them, and StackOverflow is a great place 
+to make sure others get the benefit of this too! 
+
+[so-img]: http://stackoverflow.com/users/flair/586086.png
+[so-link]: http://stackoverflow.com/users/586086/andrew-mao
 
 ****
 {: .clearfix}
@@ -54,14 +98,28 @@ meat and minimal fuss.
 ****
 {: .clearfix}
 
-[![863.14][kart-img]][kart-link]
+[![863.14][fab-img]][fab-link]
+{: .image-float-left } 
+
+### [Digital Fabrication][fab-link]
+
+I'm very excited about the growing age of digital fabrication.
+See my work in MAS 863 *"How to Make (Almost) Anything"* at MIT in 2014. A 
+few specific examples are linked below.   
+
+[fab-img]: http://fab.cba.mit.edu/classes/863.14/people/andrew_mao/week2/final.jpg
+[fab-link]: http://fab.cba.mit.edu/classes/863.14/people/andrew_mao/ 
+
+****
+{: .clearfix}
+
+[![Go-kart][kart-img]][kart-link]
 {: .image-float-left } 
 
 ### [Press-Fit Go Kart][kart-link]
 
-I'm very excited about the growing age of digital fabrication.
-My final project in MAS 863, *"How to Make (Almost) Anything"* at MIT
- was a CNC-fabricated, press-fit construction, wooden go-kart.   
+My final project in *How to Make (Almost) Anything*: a CNC-fabricated, press-fit
+construction, wooden go-kart, capable of reaching over 30 mph.   
 
 [kart-img]: http://fab.cba.mit.edu/classes/863.14/people/andrew_mao/project/neil-kart.jpg
 [kart-link]: http://fab.cba.mit.edu/classes/863.14/people/andrew_mao/project/ 
@@ -94,16 +152,3 @@ mold and careful tempering.
 [choc-img]: http://fab.cba.mit.edu/classes/863.14/people/andrew_mao/week6/choc-reverse.jpg
 [choc-link]: http://fab.cba.mit.edu/classes/863.14/people/andrew_mao/week6/ 
 
-****
-{: .clearfix}
-
-[![Crisis Mapping][cm-img]][cm-link]
-{: .image-float-left } 
-
-### [Crisis Mapping Experiment][cm-link]
-
-In collective intelligence, what happens to productivity and efficiency as 
-teams become bigger?   
-
-[cm-img]: http://share.gifyoutube.com/mLnMWR.gif
-[cm-link]: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153048 
