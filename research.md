@@ -2,6 +2,11 @@
 title: Papers
 layout: page
 ---
+
+Much of the following work is listed on my [Google Scholar][gs] profile.
+
+[gs]: https://scholar.google.com/citations?user=_A4FmDSsqC8J
+
 ### Refereed publications
 
 Andrew Mao, Winter A. Mason, Siddharth Suri, and Duncan J. Watts. **An Experimental Study of Team Size and Performance on a Complex Task.** PLoS ONE 11(4):e0153048, 2016. [ [link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153048) ]
@@ -50,7 +55,3 @@ Harvard CS281 Final Project, Fall 2011. Characterizing the Crowd: Discovering Us
 Harvard CS286r Final Project, Fall 2010. Investigating content value on online CQA communities.
 
 Harvard CS286r Final Project, Fall 2009. Empirical Investigation of Online Kidney Exchange.
-
-University of Pennsylvania Senior Design Project, May 2009. [Virtual Adapter for Anonymity Networks](http://www.mizzao.tk/a3_frame)
-
-CIS 399-05 at Penn, Spring 2006. [Python Final Project](http://www.mizzao.tk/cse39905)
