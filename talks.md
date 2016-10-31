@@ -3,6 +3,11 @@ title: Talks
 layout: page
 ---
 
+These are some of my talks for which slides and video are available.
+**For a more comprehensive list of talks I've presented, please see my [CV].**
+
+[cv]: https://dl.dropboxusercontent.com/u/13229094/papers/cv.pdf
+
 Studying Collective Social Behavior in the Virtual Lab. 
 **IC2S2 tutorial**, June 23, 2016. 
 [

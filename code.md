@@ -4,6 +4,11 @@ author: mizzao
 layout: page
 ---
 
+These are links to some of my academic software. For other open-source 
+work, please see my [GitHub] profile.
+
+[github]: https://github.com/mizzao
+
 #### <a href="https://github.com/HarvardEconCS/turkserver-meteor" target="_blank">TurkServer</a>
 
 Web-based framework for building "virtual lab" experiments. See also [the 

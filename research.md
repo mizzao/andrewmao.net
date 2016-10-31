@@ -9,6 +9,12 @@ Much of the following work is listed on my [Google Scholar][gs] profile.
 
 ### Refereed publications
 
+Andrew Mao, Lili Dworkin, Siddharth Suri, and Duncan J. Watts
+**Resilient Cooperators Stabilize Long-Run Cooperation in the Finitely 
+Repeated Prisoner's Dilemma**.
+To appear in *Nature Communications*.
+[ [preprint](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2756249) ]
+
 Andrew Mao, Winter A. Mason, Siddharth Suri, and Duncan J. Watts. **An Experimental Study of Team Size and Performance on a Complex Task.** PLoS ONE 11(4):e0153048, 2016. [ [link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153048) ]
 
 Xi Alice Gao, Andrew Mao, Yiling Chen, and Ryan P. Adams. **Trick or Treat: Putting Peer Prediction to the Test. **In the _15th ACM Conference on Economics and Computation_ (EC 2014). [ <a 
@@ -27,11 +33,6 @@ Thomas Pfeiffer, Xi Alice Gao, Andrew Mao, Yiling Chen, and David G. Rand. **Ad
 Micah Sherr, Andrew Mao, William R. Marczak, Wenchao Zhou, Boon Thau Loo, and Matt Blaze. **A3: An Extensible Platform for Application-Aware Anonymity.** In _17th Annual Network and Distributed System Security Symposium_ (NDSS 2010). [ <a href="http://www.chopsticksandlox.com/papers/a3-ndss.pdf" target="_blank">.pdf</a> <a href="http://www.cs.georgetown.edu/~msherr/reviewed_bib.html#a3-ndss" target="_blank">.bib</a> ]
 
 ### Working Papers
-
-Andrew Mao, Lili Dworkin, Siddharth Suri, and Duncan J. Watts
-**Resilient Cooperators Stabilize Long-Run Cooperation in the Finitely 
-Repeated Prisoner's Dilemma**.
-[ [preprint](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2756249) ]
 
 Andrew Mao, Hossein Azari Soufiani, Yiling Chen, and David C. Parkes. 
 **Capturing Variation and Uncertainty in Human Judgment.** [ <a href="http://arxiv.org/abs/1311.0251" target="_blank">preprint</a> ]

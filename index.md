@@ -39,4 +39,4 @@ research that involves engineering, implementation, or empirical challenges.
 [msherr]: https://security.cs.georgetown.edu/~msherr/
 [boonloo]: http://www.cis.upenn.edu/~boonloo
 
-[Curriculum Vitae](https://dl.dropboxusercontent.com/u/13229094/papers/cv.pdf) (Updated December 2015)
+[Curriculum Vitae](https://dl.dropboxusercontent.com/u/13229094/papers/cv.pdf)
