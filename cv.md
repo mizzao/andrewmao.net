@@ -159,9 +159,13 @@ Spring 2008
 **Awards**
 ==========
 
+June 2016
+{: .right}
+IJCAI Outstanding PC Member Nomination
+
 August 2011
 {: .right}
-Yahoo! Key Scientific Challenges Award
+**Yahoo! Key Scientific Challenges Award**
 
 Spring 2011
 {: .right}
@@ -174,7 +178,7 @@ Sciences
 
 2005–06, 2006–07, 2007–08, 2008–09
 {: .right}
-University of Pennsylvania Dean’s List:
+**University of Pennsylvania Dean’s List**
 
 inducted 2009
 {: .right}

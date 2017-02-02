@@ -71,3 +71,9 @@ $on-laptop:        800px;
 .clearfix {
   clear: both;
 }
+
+.right::after {
+  clear: both;
+  content: '';
+  display: block;
+}
