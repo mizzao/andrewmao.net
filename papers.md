@@ -44,7 +44,7 @@ Andrew Mao, Ece Kamar, and Eric Horvitz.
 [**Why Stop Now? Predicting Worker Engagement in Online Crowdsourcing**][hcomp-engagement].
 In the *1st Conference on Crowdsourcing and Human Computation* (HCOMP 2013).
 
-[hcomp-engagement]: https://www.dropbox.com/s/qh4g5shwgcga35m/HCOMP13_incentives.pdf?raw=1
+[hcomp-engagement]: https://www.dropbox.com/s/zy3b5fagwarv7f5/HCOMP13_engagement.pdf?raw=1
 
 Andrew Mao, Ariel D. Procaccia, and Yiling Chen.
 [**Better Human Computation Through Principled Voting**][voting].
