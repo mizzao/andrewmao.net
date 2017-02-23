@@ -2,29 +2,44 @@
 =============
 
 Andrew Mao.
-[**Experiments of Collective Social Behavior in the Virtual Lab**][ic2s2-slides].
+[**Experiments of Collective Social Behavior in the Virtual Lab**][ic2s2-tutorial].
 At the *2nd International Conference on Computational Social Science* (IC2S2 2016).
-(
-[video](https://mediasite.kellogg.northwestern.edu/Mediasite/Play/a3e4973f29594548a8684947ae60b1291d?catalog=1533bdef-0c88-4513-ad97-5fce50c92e62)
-)
+[
+[slides][ic2s2-slides],
+[video][ic2s2-video]
+]
 
-[ic2s2-slides]: https://www.dropbox.com/s/vrnoimmp5sb7lv1/IC2S216_experiments.pdf?raw=1
+[ic2s2-tutorial]: http://www.kellogg.northwestern.edu/news-events/conference/ic2s2/2016/workshops-and-datathon.aspx
+[ic2s2-slides]: papers/IC2S216_experiments.pdf
+[ic2s2-video]: https://mediasite.kellogg.northwestern.edu/Mediasite/Play/a3e4973f29594548a8684947ae60b1291d?catalog=1533bdef-0c88-4513-ad97-5fce50c92e62
 
 Andrew Mao and Sid Suri.
 [**How, When, and Why to Conduct Online
-Behavioral Experiments**][wine-experiments].
+Behavioral Experiments**][wine-tutorial].
 At the *9th Conference on Web and Internet Economics* (WINE 2013).
+[
+[slides][wine-slides]
+]
 
-[wine-experiments]: https://www.dropbox.com/s/yok8mo5f2l1rmu0/WINE13_experiments.pdf?raw=1
+[wine-tutorial]: http://wine13.seas.harvard.edu/tutorials/
+[wine-slides]: papers/WINE13_experiments.pdf?
 
 **Selected Talks**
 ==================
 
 **Studying Teamwork and Cooperation in the Virtual Lab**
+[ [slides][virtual-lab-talk-slides] ]
+
+[virtual-lab-talk-slides]: https://www.dropbox.com/s/r892mag4gu2gnck/virtual_lab_talk.pdf?raw=1
+
+February 16, 2017
+{: .right }
+University of Pennsylvania Computational Linguistics Lunch,
+Philadelphia, PA
 
 February 8, 2017
 {: .right }
-[Harvard Business School Digital Seminar Series][hbs17], Boston, MA
+Harvard Business School [*Digital Initiative Seminar*][hbs17], Boston, MA
 
 [hbs17]: https://digital.hbs.edu/events/studying-teamwork-cooperation-virtual-lab/
 
@@ -133,11 +148,14 @@ September 2015
 
 [d315]: https://www.meetup.com/NYC-D3-JS/events/225586320/
 
-[**Making an Impact with Meteor in Computer and Social Science**][meteor-devshop]
+**Making an Impact with Meteor in Computer and Social Science**
 
 September 2014
 {: .right }
 *Meteor Devshop*, San Francisco, CA
+[
+[video][meteor-devshop]
+]
 
 [meteor-devshop]: https://www.youtube.com/watch?v=cJbGNpmE7f0
 

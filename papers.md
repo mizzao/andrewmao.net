@@ -25,7 +25,7 @@ Xi Alice Gao, Andrew Mao, Yiling Chen, and Ryan P. Adams.
 [**Trick or Treat: Putting Peer Prediction to the Test**][peerprediction].
 In the *15th ACM Conference on Economics and Computation* (EC 2014).
 
-[peerprediction]: https://www.dropbox.com/s/cch5zpx889khnj5/EC14_peerprediction.pdf?raw=1
+[peerprediction]: papers/EC14_peerprediction.pdf
 
 Micah Sherr, Harjot Gill, Taher Aquil Saeed, Andrew Mao, William R. Marczak, Saravana Soundararajan, Wenchao Zhou, Boon Thau Loo, and Matt Blaze.
 [**The Design and Implementation of the A3 Application-Aware
@@ -38,25 +38,25 @@ Andrew Mao, Ece Kamar, Yiling Chen, Eric Horvitz, Megan E. Schwamb, Chris J. Lin
 [**Volunteering vs. Work for Pay: Incentives and Tradeoffs in Crowdsourcing**][hcomp-incentives].
 In the *1st Conference on Crowdsourcing and Human Computation* (HCOMP 2013).
 
-[hcomp-incentives]: https://www.dropbox.com/s/qh4g5shwgcga35m/HCOMP13_incentives.pdf?raw=1
+[hcomp-incentives]: papers/HCOMP13_incentives.pdf
 
 Andrew Mao, Ece Kamar, and Eric Horvitz.
 [**Why Stop Now? Predicting Worker Engagement in Online Crowdsourcing**][hcomp-engagement].
 In the *1st Conference on Crowdsourcing and Human Computation* (HCOMP 2013).
 
-[hcomp-engagement]: https://www.dropbox.com/s/zy3b5fagwarv7f5/HCOMP13_engagement.pdf?raw=1
+[hcomp-engagement]: papers/HCOMP13_engagement.pdf
 
 Andrew Mao, Ariel D. Procaccia, and Yiling Chen.
 [**Better Human Computation Through Principled Voting**][voting].
 In the *27th Conference on Artificial Intelligence* (AAAI 2013).
 
-[voting]: https://www.dropbox.com/s/ff7hfnkilh1izk6/AAAI13_voting.pdf?raw=1
+[voting]: papers/AAAI13_voting.pdf
 
 Thomas Pfeiffer, Xi Alice Gao, Andrew Mao, Yiling Chen, and David G. Rand.
 [**Adaptive Information Polling and Aggregation**][polling].
 In the *26th Conference on Artificial Intelligence* (AAAI 2012).
 
-[polling]: https://www.dropbox.com/s/syn8mgb8mebu0gd/AAAI12_adaptivepolling.pdf?raw=1
+[polling]: papers/AAAI12_adaptivepolling.pdf
 
 Micah Sherr, Andrew Mao, William R. Marczak, Wenchao Zhou, Boon Thau Loo, and Matt Blaze.
 [**A3: An Extensible Platform for
@@ -72,13 +72,13 @@ Andrew Mao.
 [**Experimental Behavioral Research for Designing Human Computational Systems**][hcomp14-dc].
 In the *HCOMP 2014 Doctoral Consortium*.
 
-[hcomp14-dc]: https://www.dropbox.com/s/ox0y89fxd1ur8r2/HCOMP14_dc.pdf?raw=1
+[hcomp14-dc]: papers/HCOMP14_dc.pdf
 
 Andrew Mao, Yiling Chen, Krzysztof Z. Gajos, Ariel D. Procaccia, David C. Parkes, and Haoqi Zhang.
 [**TurkServer: Enabling Synchronous and
 Longitudinal Online Experiments**][turkserver].
 In *4th Workshop on Human Computation* (HCOMP 2012).
 
-[turkserver]: https://www.dropbox.com/s/uohpn4ci1bl7lzs/HCOMP12_turkserver.pdf?raw=1
+[turkserver]: papers/HCOMP12_turkserver.pdf
 
 
