@@ -103,6 +103,13 @@ December 2015
 Microsoft Research, Redmond, WA
 
 **Long-run Cooperation in the Finitely Repeated Prisoner’s Dilemma**
+[ [slides][pd-slides] ]
+
+[pd-slides]: https://www.dropbox.com/s/uvhal9vjqz9c1nw/longrunpd-slides.pdf?raw=1
+
+March 9, 2017
+{: .right }
+*Making Better Use of the Crowd*, Microsoft Research Week, Redmond, WA
 
 July 2016
 {: .right }
