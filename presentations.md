@@ -40,8 +40,11 @@ Philadelphia, PA
 February 8, 2017
 {: .right }
 Harvard Business School [*Digital Initiative Seminar*][hbs17], Boston, MA
+[ [audio][hbsaudio], [interview][hbsinterview] ]
 
 [hbs17]: https://digital.hbs.edu/events/studying-teamwork-cooperation-virtual-lab/
+[hbsaudio]: https://soundcloud.com/harvard/hbs-digital-seminar-with-andrew-mao-studying-teamwork-and-cooperation-in-the-virtual-lab?in=harvard/sets/the-hbs-digital-seminar
+[hbsinterview]: https://www.youtube.com/watch?v=qL5bm16RnoA&index=1&list=PLZ5e5jpH6e5LoYp4v1eGhQHs981wmjqQ4&t=1s
 
 January 31, 2017
 {: .right }

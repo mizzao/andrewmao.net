@@ -2,13 +2,16 @@
 layout: page
 ---
 
-![headshot]({{ github.site.url }}/assets/headshot.jpg)
+![photo]({{ github.site.url }}/assets/photo.jpg)
 {: .image-float-left }
 
-I am currently a postdoc at [Microsoft Research NYC][msrnyc], with a focus in
-computational and experimental social science.
+*Postdoctoral Researcher\\
+[Microsoft Research NYC][msrnyc], [Computational Social Science][css]\\
+641 Avenue of the Americas, 7th Floor\\
+New York, NY 10011 USA*
 
 [msrnyc]: https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/
+[css]: https://www.microsoft.com/en-us/research/group/computational-social-science/
 
 My main research interests are to motivate and understand the design of hybrid
 systems of humans and computers in online, interconnected settings, and
