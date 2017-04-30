@@ -32,6 +32,20 @@ At the *9th Conference on Web and Internet Economics* (WINE 2013).
 
 [virtual-lab-talk-slides]: https://www.dropbox.com/s/r892mag4gu2gnck/virtual_lab_talk.pdf?raw=1
 
+May 9, 2017
+{: .right }
+Carnegie Mellon University [AI Lunch and Seminar][cmuai],
+Pittsburgh, PA
+
+[cmuai]: http://www.cs.cmu.edu/~aiseminar/
+
+April 26, 2017
+{: .right }
+Brown University [CSCI 1951k][cs1951k] Guest Lecture,
+Providence RI
+
+[cs1951k]: http://cs.brown.edu/courses/cs1951k/
+
 February 16, 2017
 {: .right }
 University of Pennsylvania Computational Linguistics Lunch,

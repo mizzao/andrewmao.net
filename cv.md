@@ -53,6 +53,10 @@ layout: page
 **Teaching Experience**
 =======================
 
+{::comment}
+Guest lecture for Jake Hofman/Amy Greenwald
+{:/comment}
+
 **Harvard University**
 
 Spring 2013
