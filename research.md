@@ -7,7 +7,7 @@ Much of the following work is listed on my [Google Scholar][gs] profile.
 
 [gs]: https://scholar.google.com/citations?user=_A4FmDSsqC8J
 
-{% include_relative papers.md %}
+{% include_relative _includes/papers.md %}
 
 **Working Papers**
 ==================

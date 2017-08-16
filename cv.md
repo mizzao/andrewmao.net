@@ -4,11 +4,11 @@ hidetitle: true
 layout: page
 ---
 
-{% include_relative career.md %}
+{% include_relative _includes/career.md %}
 
-{% include_relative papers.md %}
+{% include_relative _includes/papers.md %}
 
-{% include_relative presentations.md %}
+{% include_relative _includes/presentations.md %}
 
 **Program Committees**
 ======================

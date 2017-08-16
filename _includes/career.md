@@ -1,8 +1,10 @@
-Microsoft Research, New York City\\
-641 Avenue of the Americas, 7th Floor\\
-New York, NY 10011\\
+Department of Management\\
+School of Business and Social Sciences\\
+Aarhus University\\
+Building 2628-C209\\
+Fuglesangs Allé 4, 8210 Aarhus V, Denmark\\
 phone: +1 (302) 566-5456\\
-email: <mao@microsoft.com>
+email: <mao@mgmt.au.dk>
 
 **Education**
 =============
@@ -33,9 +35,17 @@ GPA: 3.89 / 4.0
 **Appointments**
 ================
 
+**Aarhus University**
+
+2017—present
+{: .right}
+*Assistant Professor*, [Department of Management][mgmt-au], Aarhus BSS (Aarhus, Denmark)
+
+[mgmt-au]: http://mgmt.au.dk/
+
 **Microsoft Research**
 
-2015—present
+2015—2017
 {: .right}
 *Postdoctoral Researcher*, [Computational Social Science][css] (New York, NY)
 

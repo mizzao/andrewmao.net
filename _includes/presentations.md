@@ -1,6 +1,14 @@
 **Tutorials**
 =============
 
+Neil S. Gaikwad, Sohan Dsouza, Oana Vuculescu, and Andrew Mao.
+[**Crowdcomputing and Citizen Science for Large-scale Experiments**][ic2s2-crowdcomputing].
+At the *3nd International Conference on Computational Social Science* (IC2S2 2017).
+[ [slides][ic2s2-crowdcomputing-slides] ]
+
+[ic2s2-crowdcomputing]: https://ic2s2.org/2017/elements/tutorials.html#t8
+[ic2s2-crowdcomputing-slides]: http://web.media.mit.edu/~gaikwad/assets/publications/tutorial-ic2s2.pdf
+
 Andrew Mao.
 [**Experiments of Collective Social Behavior in the Virtual Lab**][ic2s2-tutorial].
 At the *2nd International Conference on Computational Social Science* (IC2S2 2016).
