@@ -1,10 +1,8 @@
 ---
 layout: page
+hidden: true
+hidenav: true
 ---
-
-Andrew Mao
-==========
-
 Microsoft Research, New York City\\
 641 Avenue of the Americas, 7th Floor\\
 New York, NY 10011\\
