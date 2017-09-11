@@ -13,8 +13,13 @@ def html_proofer
   options = {
     :allow_hash_href => true,       # don't break on <a href="#">
     :assume_extension => false,     # (true) for extensionless paths
-    :http_status_ignore => [ 999 ], # LinkedIn throttling errors
+    :http_status_ignore => [
+      999, # LinkedIn throttling errors
+      403, # Google scholar errors thrown from Travis (links here will be public anyway)
+    ],
     :typhoeus => {
+      :connecttimeout => 20,
+      :timeout => 60,
       # avoid strange SSL errors: https://github.com/gjtorikian/html-proofer/issues/376
       :ssl_verifypeer => false,
       :ssl_verifyhost => 0

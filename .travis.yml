@@ -1,2 +1,8 @@
 language: ruby
 cache: bundler
+
+# https://github.com/gjtorikian/html-proofer/issues/376#issuecomment-332770021
+addons:
+  apt:
+    packages:
+    - libcurl4-openssl-dev
