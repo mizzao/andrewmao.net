@@ -80,5 +80,3 @@ Longitudinal Online Experiments**][turkserver].
 In *4th Workshop on Human Computation* (HCOMP 2012).
 
 [turkserver]: papers/HCOMP12_turkserver.pdf
-
-
