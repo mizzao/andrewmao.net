@@ -50,31 +50,6 @@ $on-laptop:        800px;
   "base",
   "layout",
   "syntax-highlighting",
-  "svg-icons"
+  "svg-icons",
+  "custom"
 ;
-
-/*
- * Custom stuff
- */
-
-// For making images inline
-.image-float-left {
-  float: left;
-  margin-right: 20px;
-  width: 40%;
-}
-
-.right {
-  float: right;
-  margin-left: 1em;
-}
-
-.clearfix {
-  clear: both;
-}
-
-.right::after {
-  clear: both;
-  content: '';
-  display: block;
-}

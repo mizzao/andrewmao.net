@@ -1,0 +1,52 @@
+// Override default CSS for more compact pages like resume
+.page-content.compact {
+  padding: 0;
+
+  h1, h2, h3, h4, h5, h6
+  {
+    margin-bottom: $spacing-unit / 4;
+  }
+
+  // Default title section for resume/CV
+  h2 {
+    font-size: 1.25em;
+    @extend .underline;
+  }
+
+  p, blockquote, pre,
+  ul, ol, dl, figure,
+  %vertical-rhythm {
+    margin-bottom: $spacing-unit / 3;
+  }
+}
+
+// For making images inline
+.image-float-left {
+  float: left;
+  margin-right: 20px;
+  width: 40%;
+}
+
+.padded {
+  padding: 0 5px;
+}
+
+.right {
+  float: right;
+  margin-left: 1em;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.right::after {
+  clear: both;
+  content: '';
+  display: block;
+}
+
+.underline {
+  text-decoration: underline;
+  // text-decoration-skip: ink;
+}

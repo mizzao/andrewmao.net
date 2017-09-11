@@ -2,13 +2,14 @@
 title: CV
 hidetitle: true
 layout: page
+class: compact
 ---
 
-{% include_relative _includes/career.md %}
+{% include career.md %}
 
-{% include_relative _includes/papers.md %}
+{% include papers.md %}
 
-{% include_relative _includes/presentations.md %}
+{% include presentations.md %}
 
 **Program Committees**
 ======================
