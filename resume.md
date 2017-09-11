@@ -50,7 +50,7 @@ Dissertation: *[Experimental Studies of Human Behavior in Social Computing Syste
 **Scientific Research**:
 [**10 peer-reviewed publications**](/research) with [over 300 citations][gs] (h-index: 9) in top computer science conferences (*AAAI*, *EC*, *HCOMP*) and interdisciplinary journals (*Nature Communications*, *PLoS ONE*) spanning artificial intelligence, human computation, and computational social science.
 [**31 invited talks**](/talks) at universities, research labs, and conferences worldwide.
-Program committee member for over 8 international conferences in computer science and computational social science, including WWW, IJCAI, AAAI, AAMAS, EC, HCOMP, and ICWSM. For details [see my CV](cv).
+Program committee member for over 8 international conferences in computer science and computational social science, including WWW, IJCAI, AAAI, AAMAS, EC, HCOMP, and ICWSM. For details [see my CV](/cv).
 
 [gs]: https://scholar.google.com/citations?user=_A4FmDSsqC8J
 

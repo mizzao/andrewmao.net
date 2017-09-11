@@ -2,6 +2,7 @@
 layout: page
 hidden: true
 hidenav: true
+class: compact
 ---
 Microsoft Research, New York City\\
 641 Avenue of the Americas, 7th Floor\\

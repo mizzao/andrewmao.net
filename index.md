@@ -37,4 +37,4 @@ Pennsylvania, and a S.M. and Ph.D. from Harvard University, where I was advised 
 [msrnyc]: https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/
 [css]: https://www.microsoft.com/en-us/research/group/computational-social-science/
 
-[Curriculum Vitae](/cv)
+See my [**resume**](/resume) or [**CV**](/cv).
