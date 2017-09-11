@@ -7,9 +7,8 @@ Prereqs: https://jekyllrb.com/docs/installation/#requirements
 
 Updating gems to match latest github-pages: `bundle update`.
 
-# Continuous Integration
+# Continuous Integration [![Build Status](https://travis-ci.org/mizzao/andrewmao.net.svg?branch=master)](https://travis-ci.org/mizzao/andrewmao.net)
 
 [html-proofer] is used with Travis CI to check for broken links on new builds.
-[![Build Status](https://travis-ci.org/mizzao/andrewmao.net.svg?branch=master)](https://travis-ci.org/mizzao/andrewmao.net)
 
 [html-proofer]: https://github.com/gjtorikian/html-proofer

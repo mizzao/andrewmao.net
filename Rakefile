@@ -23,4 +23,10 @@ task :test do
   html_proofer
 end
 
+task :test_local do
+  # Already built so don't build again
+  doctor_site
+  html_proofer
+end
+
 task :default => :test

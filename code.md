@@ -32,7 +32,7 @@ guide](http://turkserver.readthedocs.io/).
 
 math and machine learning library. Specifically includes many implementations of social choice/voting rules and fitting random utility models.
 
-#### [Voting Data](https://dl.dropboxusercontent.com/u/13229094/papers/voting-results.tar.gz)
+#### [Voting Data](https://dl.dropboxusercontent.com/s/mf0mm153pe3f12w/voting-results.tar.gz)
 
 social choice/ranking data at various levels of noise, collected on Amazon Mechanical Turk. (See these data sets on PrefLib: [dots](http://www.preflib.org/data/election/dots/),
 [puzzle](http://www.preflib.org/data/election/puzzle/), or the original

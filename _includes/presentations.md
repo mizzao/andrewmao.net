@@ -18,7 +18,7 @@ At the *2nd International Conference on Computational Social Science* (IC2S2 201
 ]
 
 [ic2s2-tutorial]: http://www.kellogg.northwestern.edu/news-events/conference/ic2s2/2016/workshops-and-datathon.aspx
-[ic2s2-slides]: papers/IC2S216_experiments.pdf
+[ic2s2-slides]: /papers/IC2S216_experiments.pdf
 [ic2s2-video]: https://mediasite.kellogg.northwestern.edu/Mediasite/Play/a3e4973f29594548a8684947ae60b1291d?catalog=1533bdef-0c88-4513-ad97-5fce50c92e62
 
 Andrew Mao and Sid Suri.
@@ -30,7 +30,7 @@ At the *9th Conference on Web and Internet Economics* (WINE 2013).
 ]
 
 [wine-tutorial]: http://wine13.seas.harvard.edu/tutorials/
-[wine-slides]: papers/WINE13_experiments.pdf?
+[wine-slides]: /papers/WINE13_experiments.pdf?
 
 **Selected Talks**
 ==================
