@@ -11,8 +11,14 @@ end
 
 def html_proofer
   options = {
-    :allow_hash_href => true,     # don't break on <a href="#">
-    :assume_extension => false    # (true) for extensionless paths
+    :allow_hash_href => true,       # don't break on <a href="#">
+    :assume_extension => false,     # (true) for extensionless paths
+    :http_status_ignore => [ 999 ], # LinkedIn throttling errors
+    :typhoeus => {
+      # avoid strange SSL errors: https://github.com/gjtorikian/html-proofer/issues/376
+      :ssl_verifypeer => false,
+      :ssl_verifyhost => 0
+    }
   }
   HTMLProofer.check_directory("./_site", options).run
 end
