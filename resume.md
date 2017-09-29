@@ -29,6 +29,10 @@ I am an engineer and data scientist interested in building computational systems
 [css]: https://www.microsoft.com/en-us/research/group/computational-social-science/
 [asi]: https://www.microsoft.com/en-us/research/group/adaptive-systems-and-interaction/
 
+**Goldman Sachs**\\
+*Summer 2007, 2008*{: .right}
+*Summer Analyst*, Quant Strategies (London, England and New York, NY)
+
 ## Education
 
 **Harvard University** (Cambridge, MA)\\
