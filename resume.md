@@ -46,7 +46,8 @@ Dissertation: *[Experimental Studies of Human Behavior in Social Computing Syste
 [thesis]: https://dash.harvard.edu/handle/1/17467193
 
 **University of Pennsylvania** (Philadelphia, PA)\\
-*B.S.E.*, Computer Science; *B.S.*, Economics; *summa cum laude* (GPA: 3.89 / 4.0)
+*B.S.*, Economics, **The Wharton School**\\
+*B.S.E.*, Computer Science; *summa cum laude* (GPA: 3.89 / 4.0)
 *May 2009*{: .right}
 
 ## Qualifications
