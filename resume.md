@@ -4,19 +4,29 @@ hidden: true
 hidenav: true
 class: compact
 ---
-Dept. of Management, Aarhus BSS\\
-Fuglesangs Allé 4, 2628-C209\\
-8210 Aarhus V, Denmark\\
+Research Scientist\\
+[CTRL-labs]\\
+1001 6th Ave, 5th Floor\\
+New York, NY 10018\\
 phone: +1 (302) 566-5456\\
 email: <mizzao@gmail.com>
 {: .right .padded}
 
-I am an engineer and data scientist interested in building computational systems that connect people together. My expertise spans computer science and social science—including machine learning, data visualization, web programming, experiment design, causal inference, economics, and statistics.
+[CTRL-labs]: https://www.ctrl-labs.com/
+
+I build intelligent systems of people and computers, and multidisciplinary teams
+that make such systems possible. My expertise spans machine learning, data
+visualization, human-computer interaction, software engineering, experiment
+design, causal inference, economics, and statistics.
+
 
 ## Experience
 
-*Assistant Professor*, **Aarhus University** (Aarhus, Denmark)
-*2017—present*{: .right}
+*Research Scientist*, **[CTRL-labs]** (New York, NY)
+*November 2017—present*{: .right}
+
+*Assistant Professor* (tenure-track), **Aarhus University** (Aarhus, Denmark)
+*July 2017—November 2017*{: .right}
 
 **Microsoft Research**\\
 *2015—2017*{: .right}
@@ -53,7 +63,7 @@ Dissertation: *[Experimental Studies of Human Behavior in Social Computing Syste
 ## Qualifications
 
 **Scientific Research**:
-[**10 peer-reviewed publications**](/research) with [over 300 citations][gs] (h-index: 9) in top computer science conferences (*AAAI*, *EC*, *HCOMP*) and interdisciplinary journals (*Nature Communications*, *PLoS ONE*) spanning artificial intelligence, human computation, and computational social science.
+[**10 peer-reviewed publications**](/research) with [over 400 citations][gs] (h-index: 10) in top computer science conferences (*AAAI*, *EC*, *HCOMP*) and interdisciplinary journals (*Nature Communications*, *PLoS ONE*) spanning artificial intelligence, human computation, and computational social science.
 [**31 invited talks**](/talks) at universities, research labs, and conferences worldwide.
 Program committee member for over 8 international conferences in computer science and computational social science, including WWW, IJCAI, AAAI, AAMAS, EC, HCOMP, and ICWSM. For details [see my CV](/cv).
 

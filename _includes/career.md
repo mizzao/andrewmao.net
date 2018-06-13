@@ -1,10 +1,9 @@
-Department of Management\\
-School of Business and Social Sciences\\
-Aarhus University\\
-Building 2628-C209\\
-Fuglesangs Allé 4, 8210 Aarhus V, Denmark\\
+Research Scientist\\
+CTRL-labs\\
+1001 6th Ave, 5th Floor\\
+New York NY, 10018\\
 phone: +1 (302) 566-5456\\
-email: <mao@mgmt.au.dk>
+email: <mizzao@gmail.com>
 
 **Education**
 =============
@@ -32,14 +31,20 @@ GPA: 3.89 / 4.0
 [courses](https://www.dropbox.com/s/2c17o0iyhh4oqca/transcript.pdf?raw=1)
 )
 
-**Appointments**
+**Positions**
 ================
+
+November 2017—present
+{: .right}
+*Research Scientist*, [CTRL-labs] (New York, NY)
+
+[ctrl-labs]: https://www.ctrl-labs.com/
 
 **Aarhus University**
 
-2017—present
+July 2017—November 2017
 {: .right}
-*Assistant Professor*, [Department of Management][mgmt-au], Aarhus BSS (Aarhus, Denmark)
+*Assistant Professor* (tenure-track), [Department of Management][mgmt-au], Aarhus BSS (Aarhus, Denmark)
 
 [mgmt-au]: http://mgmt.au.dk/
 
@@ -68,6 +73,7 @@ Summer 2012
 
 [econcs]: http://econcs.seas.harvard.edu/
 
+<!--
 **Grants**
 ==========
 
@@ -76,3 +82,4 @@ Summer 2012
 Volkswagen Foundation *[International Research in Computational Social Sciences][vwcss]* grant, 2016.
 
 [vwcss]: https://www.volkswagenstiftung.de/en/en/computational-social-sciences.html
+-->
