@@ -48,7 +48,7 @@ GPA: 3.89 / 4.0
 **The Emergence of Inequality in Social Groups**.
 Volkswagen Foundation *[International Research in Computational Social Sciences][vwcss]* grant, 2016.
 
-[vwcss]: https://www.volkswagenstiftung.de/en/en/computational-social-sciences.html
+[vwcss]: https://www.volkswagenstiftung.de/en/funding/international-research-in-computational-social-sciences
 
 **[Publication record][gs]**: 9 peer-reviewed papers with more than 300 citations (h-index: 8) in archival computer science conferences and interdisciplinary journals, including one recent paper in *Nature Communications*. Broad-ranging experience including computer science, artificial intelligence, computational and experimental social science, and citizen science.
 

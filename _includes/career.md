@@ -81,5 +81,5 @@ Summer 2012
 **The Emergence of Inequality in Social Groups**.
 Volkswagen Foundation *[International Research in Computational Social Sciences][vwcss]* grant, 2016.
 
-[vwcss]: https://www.volkswagenstiftung.de/en/en/computational-social-sciences.html
+[vwcss]: https://www.volkswagenstiftung.de/en/funding/international-research-in-computational-social-sciences
 -->

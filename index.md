@@ -53,4 +53,7 @@ group][econcs].
 [msrnyc]: https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/
 [css]: https://www.microsoft.com/en-us/research/group/computational-social-science/
 
-See my [**resume**](/resume) or [**CV**](/cv).
+See my [**resume**](/resume) or [**CV**](/cv)
+or check out [my bookshelf][bookshelf].
+
+[bookshelf]: https://www.notion.so/d264f259bc1e493eadd62101019a6596
