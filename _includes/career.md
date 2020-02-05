@@ -1,7 +1,5 @@
-Research Scientist\\
-CTRL-labs\\
-1001 6th Ave, 5th Floor\\
-New York NY, 10018\\
+276 13th St Apt 5D\\
+Brooklyn, NY 11215\\
 phone: +1 (302) 566-5456\\
 email: <mizzao@gmail.com>
 
@@ -34,7 +32,7 @@ GPA: 3.89 / 4.0
 **Positions**
 ================
 
-November 2017—present
+November 2017—Sep 2019
 {: .right}
 *Research Scientist*, [CTRL-labs] (New York, NY)
 

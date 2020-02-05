@@ -5,6 +5,7 @@ layout: page
 ![photo]({{ github.site.url }}/assets/photo.jpg)
 {: .image-float-left }
 
+<!--
 *Research Scientist\\
 [CTRL-labs]\\
 1001 6th Ave, 5th Floor\\
@@ -20,8 +21,9 @@ working on an enormous vision, [we are hiring][ctrl-jobs]!
 
 [reardon-talk]: https://www.youtube.com/watch?v=5Z5aZK2C3ew
 [ctrl-jobs]: https://www.ctrl-labs.com/careers/
+-->
 
-In general, I enjoy building intelligent systems of people and computers. My
+I enjoy building intelligent systems of people and computers. My
 expertise spans machine learning, data visualization, human-computer
 interaction, software engineering, experiment design, causal inference,
 economics, and statistics.

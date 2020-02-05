@@ -4,26 +4,23 @@ hidden: true
 hidenav: true
 class: compact
 ---
-Research Scientist\\
-[CTRL-labs]\\
-1001 6th Ave, 5th Floor\\
-New York, NY 10018\\
+276 13th St, Apt 5D\\
+Brooklyn, NY 11215\\
 phone: +1 (302) 566-5456\\
 email: <mizzao@gmail.com>
 {: .right .padded}
-
-[CTRL-labs]: https://www.ctrl-labs.com/
 
 I build intelligent systems of people and computers, and multidisciplinary teams
 that make such systems possible. My expertise spans machine learning, data
 visualization, human-computer interaction, software engineering, experiment
 design, causal inference, economics, and statistics.
 
-
 ## Experience
 
 *Research Scientist*, **[CTRL-labs]** (New York, NY)
-*November 2017—present*{: .right}
+*November 2017—Sep 2019*{: .right}
+
+[CTRL-labs]: https://www.ctrl-labs.com/
 
 *Assistant Professor* (tenure-track), **Aarhus University** (Aarhus, Denmark)
 *July 2017—November 2017*{: .right}
