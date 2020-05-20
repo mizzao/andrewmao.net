@@ -12,3 +12,11 @@ Updating gems to match latest github-pages: `bundle update`.
 [html-proofer] is used with Travis CI to check for broken links on new builds.
 
 [html-proofer]: https://github.com/gjtorikian/html-proofer
+
+# Test Manually
+
+- `bundle exec rake`
+
+# Update Gems
+
+- `bundle update`

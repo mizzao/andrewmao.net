@@ -1,5 +1,6 @@
 ---
 title: CV
+hidden: true
 hidetitle: true
 layout: page
 class: compact

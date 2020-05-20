@@ -15,7 +15,9 @@ Much of the following work is listed on my [Google Scholar][gs] profile.
 Andrew Mao, Hossein Azari Soufiani, Yiling Chen, and David C. Parkes.
 [**Capturing Variation and Uncertainty in Human Judgment**](http://arxiv.org/abs/1311.0251).
 
-Andrew Mao, David Parkes, Ariel Procaccia, and Haoqi Zhang. [**Human Computation and Multiagent Systems: An Algorithmic Perspective**](http://procaccia.info/papers/graphcolor.pdf).
+Andrew Mao, David Parkes, Ariel Procaccia, and Haoqi Zhang. [**Human Computation and Multiagent Systems: An Algorithmic Perspective**][graphcolor].
+
+[graphcolor]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.421.6593&rep=rep1&type=pdf
 
 {::comment}
 **Other Projects**

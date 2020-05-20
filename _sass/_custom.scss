@@ -4,13 +4,31 @@
 
   h1, h2, h3, h4, h5, h6
   {
-    margin-bottom: $spacing-unit / 4;
+    font-weight: 600;
+    margin-bottom: $spacing-unit / 8;
   }
 
   // Default title section for resume/CV
   h2 {
-    font-size: 1.25em;
-    @extend .underline;
+    text-align: center;
+  }
+
+  // Title section for Company
+  h3 {
+    // @extend .underline;
+    margin-bottom: 0;
+
+    img {
+      max-width: 24px;
+      max-height: 24px;
+      vertical-align: top;
+      margin-right: 5px;
+    }
+  }
+
+  p {
+    // Don't wrap around floating elements
+    overflow: hidden;
   }
 
   p, blockquote, pre,
@@ -34,6 +52,7 @@
 .right {
   float: right;
   margin-left: 1em;
+  margin-right: 4px;
 }
 
 .clearfix {
