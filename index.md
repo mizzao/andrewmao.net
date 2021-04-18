@@ -5,15 +5,19 @@ layout: page
 ![photo]({{ github.site.url }}/assets/photo.jpg)
 {: .image-float-left }
 
-Hey there! I'm currently looking for the next opportunity to work with great
-people on an interesting project. See my [**resume**](/resume) or [**academic
-CV**](/cv).
+Hey there! I'm currently a co-founder of [Parsnip], which teaches you cooking
+techniques as you prepare your meals (think "Duolingo for cooking"). Long-term,
+we're building an AI assistant that gives superpowers to home cooks and
+minimizes the cognitive load of meal planning, grocery shopping, and preparing
+food. If this sounds interesting, please get in touch!
+
+[Parsnip]: https://parsnip.ai
 
 I love building intelligent systems of people and computers, and working with
 multidisciplinary teams that make those systems possible. I draw from broad
 experience spanning entrepreneurship, product management, machine learning, data
 visualization, software engineering, human-computer interaction, experiment
-design, and economics.
+design, and economics. See my [**resume**](/resume) or [**academic CV**](/cv).
 
 Previously, I was a research scientist turned product manager at [CTRL-labs],
 where we imagined the future of human interface devices by [directly connecting
