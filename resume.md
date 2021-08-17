@@ -17,6 +17,20 @@ design, and economics.
 
 ## Experience
 
+### ![Parsnip][parsnip-icon] [Parsnip]
+*2020—present*{: .right}
+*Co-founder*\\
+Parsnip is "Duolingo for cooking", teaching cooking techniques as you prepare
+your meals. Our long term goal was to create a food data platform for the home
+kitchen, powering an AI assistant for meal planning, grocery shopping, and
+cooking.
+
+I recruited a founding team, built several iterations of the product, raised
+$200k from angel investors, and learned a ton from making many mistakes.
+
+[parsnip-icon]: /assets/icon-parsnip.png
+[Parsnip]: https://parsnip.ai
+
 ### ![CTRL-labs][ctrl-icon] [CTRL-labs] ([acquired by Facebook][ctrl-fb])
 *2017—2019*{: .right}
 *Research Scientist & Product Manager* (New York, NY)\\
@@ -112,7 +126,7 @@ microeconomic and social incentives][hcomp-incentives].
 communication.
 
 **Scientific Research**:
-[**11 peer-reviewed publications**](/research) with [over 650 citations][gs] (h-index: 11) in top computer science conferences (*AAAI*, *EC*, *HCOMP*) and interdisciplinary journals (*Nature Communications*, *PLoS ONE*) spanning artificial intelligence, human computation, and computational social science.
+[**11 peer-reviewed publications**](/research) with [over 780 citations][gs] (h-index: 11) in top computer science conferences (*AAAI*, *EC*, *HCOMP*) and interdisciplinary journals (*Nature Communications*, *PLoS ONE*) spanning artificial intelligence, human computation, and computational social science.
 [**31 invited talks**](/talks) at universities, research labs, and conferences worldwide.
 Program committee member for over 8 international conferences in computer science and computational social science, including WWW, IJCAI, AAAI, AAMAS, EC, HCOMP, and ICWSM. For details [see my CV](/cv).
 
