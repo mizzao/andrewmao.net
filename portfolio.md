@@ -10,6 +10,22 @@ physical things.
 ****
 {: .clearfix}
 
+[![Parsnip][parsnip-img]][parsnip-link]
+{: .image-float-left }
+
+### [Parsnip][parsnip-link]
+
+Parsnip is "Duolingo for cooking", teaching cooking techniques as you prepare
+recipes. Our long term goal was to create a food data platform for the home
+kitchen, powering an AI assistant for meal planning, grocery shopping, and
+cooking.
+
+[parsnip-img]: /assets/parsnip.jpg
+[parsnip-link]: https://parsnip.ai
+
+****
+{: .clearfix}
+
 [![CTRL-labs][ctrl-img]][ctrl-link]
 {: .image-float-left }
 
@@ -71,7 +87,7 @@ teams become bigger?
 ****
 {: .clearfix}
 
-<iframe src="http://githubbadge.appspot.com/mizzao"
+<iframe src="https://github-readme-stats.vercel.app/api?username=mizzao"
   class="image-float-left"
   style="border: 0; overflow: hidden;" frameBorder="0">
 </iframe>
@@ -95,7 +111,7 @@ GitHub.
 I try to document things as I learn them, and StackOverflow is a great place
 to make sure others get the benefit of this too!
 
-[so-img]: http://stackoverflow.com/users/flair/586086.png
+[so-img]: http://stackoverflow.com/users/flair/586086.png?theme=clean
 [so-link]: http://stackoverflow.com/users/586086/andrew-mao
 
 ****
