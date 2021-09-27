@@ -79,9 +79,10 @@ to find out][pd-link].
 ### [Crisis Mapping][cm-link]
 
 In collective intelligence, what happens to productivity and efficiency as
-teams become bigger?
+teams become bigger? We studied this as groups [worked together in real time][cm-video].
 
-[cm-img]: http://share.gifyoutube.com/mLnMWR.gif
+[cm-img]: /assets/cm-map.png
+[cm-video]: https://www.youtube.com/watch?v=xJYq_kh6NlI
 [cm-link]: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153048
 
 ****
