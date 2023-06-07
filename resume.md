@@ -19,17 +19,23 @@ design, and economics.
 
 ### ![Parsnip][parsnip-icon] [Parsnip]
 *2020—present*{: .right}
-*Co-founder*\\
-Parsnip is "Duolingo for cooking", teaching cooking techniques as you prepare
-your meals. Our long term goal was to create a food data platform for the home
-kitchen, powering an AI assistant for meal planning, grocery shopping, and
-cooking.
+*Co-founder and CEO*\\
+Parsnip ("Duolingo for cooking") applies the same feeling of "leveling up" in a
+video game to the real-life skill of cooking, so that anyone in the world can
+conveniently cook any cuisine at home. Our long term goal is to create a
+personalized AI companion for the home kitchen that teaches cooking and helps
+you figure out what's for dinner.
 
-I recruited a founding team, built several iterations of the product, raised
-$200k from angel investors, and learned a ton from making many mistakes.
+Parsnip gained over 35k organic downloads, reached 4.9⭐ on the App Store, and
+was featured by Apple. Our [users loved us][user-love] and we [probably reached
+product-market fit][pmf].  We raised $450k from angel investors including the
+co-founders of Duolingo and a James Beard laureate, and learned a ton from
+making many mistakes.
 
 [parsnip-icon]: /assets/icon-parsnip.png
 [Parsnip]: https://parsnip.ai
+[user-love]: https://www.notion.so/Product-Love-for-Parsnip-40c9f1c07ba2488cbb75cac2e804e909
+[pmf]: https://parsnip.substack.com/p/product-market-fit
 
 ### ![CTRL-labs][ctrl-icon] [CTRL-labs] ([acquired by Facebook][ctrl-fb])
 *2017—2019*{: .right}

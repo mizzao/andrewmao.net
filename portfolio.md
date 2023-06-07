@@ -15,13 +15,20 @@ physical things.
 
 ### [Parsnip][parsnip-link]
 
-Parsnip is "Duolingo for cooking", teaching cooking techniques as you prepare
-recipes. Our long term goal was to create a food data platform for the home
-kitchen, powering an AI assistant for meal planning, grocery shopping, and
-cooking.
+Parsnip ("Duolingo for cooking") applies the same feeling of "leveling up" in a
+video game to the real-life skill of cooking. Our app hit over 35k downloads
+with no marketing, reached [4.9⭐ on the App Store][parsnip-ios], and was
+featured by Apple. Our [users loved us][user-love] and we [probably reached
+product-market fit][pmf]. We raised $450k from angel investors including the
+co-founders of Duolingo and a James Beard laureate, and learned a ton from
+making many mistakes.
 
-[parsnip-img]: /assets/parsnip.jpg
+[parsnip-img]: /assets/parsnip.png
 [parsnip-link]: https://parsnip.ai
+[parsnip-ios]: https://apps.apple.com/us/app/parsnip-level-up-your-cooking/id1592325213
+[user-love]: https://www.notion.so/Product-Love-for-Parsnip-40c9f1c07ba2488cbb75cac2e804e909
+[pmf]: https://parsnip.substack.com/p/product-market-fit
+
 
 ****
 {: .clearfix}

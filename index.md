@@ -5,11 +5,10 @@ layout: page
 ![photo]({{ github.site.url }}/assets/photo.jpg)
 {: .image-float-left }
 
-Hey there! I'm currently working on [Parsnip], which teaches you cooking
-techniques as you prepare your meals (think "Duolingo for cooking"). Long-term,
-we're building an AI assistant that gives superpowers to home cooks and
-minimizes the cognitive load of meal planning, grocery shopping, and preparing
-food. If this sounds interesting, please get in touch!
+Hey there! I'm currently working on [Parsnip] ("Duolingo for cooking"), which
+applies the same feeling of "leveling up" in a video game to the real-life skill
+of cooking.  Our long term goal is to create a personalized AI companion for the
+home kitchen that teaches cooking and helps you figure out what's for dinner.
 
 [Parsnip]: https://parsnip.ai
 
