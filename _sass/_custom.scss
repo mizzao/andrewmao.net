@@ -2,6 +2,16 @@
 .page-content.compact {
   padding: 0;
 
+  // On print / Save-as-PDF: fill the printable area regardless of the
+  // on-screen width. The browser's page margins supply the outer border.
+  @media print {
+    .wrapper {
+      max-width: 100%;
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+
   h1, h2, h3, h4, h5, h6
   {
     font-weight: 600;
@@ -35,6 +45,18 @@
   ul, ol, dl, figure,
   %vertical-rhythm {
     margin-bottom: $spacing-unit / 3;
+  }
+}
+
+// Keep the site header ("Andrew Mao") aligned with the widened content on
+// compact pages. The header sits outside .page-content, so it's scoped via
+// the body class instead. Mirror the .page-content.compact .wrapper widths.
+// (The footer is omitted entirely on compact pages — see _layouts/default.html.)
+body.compact .site-header .wrapper {
+  @media print {
+    max-width: 100%;
+    padding-left: 0;
+    padding-right: 0;
   }
 }
 
