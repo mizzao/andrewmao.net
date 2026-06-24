@@ -5,37 +5,32 @@ hidden: false
 hidenav: true
 class: compact
 ---
-email: <mizzao@gmail.com>\\
+email: <mao@parsnip.ai>\\
 phone: +1 (302) 566-5456
 {: .right .padded}
 
-I love building intelligent systems of people and computers, and working with
-multidisciplinary teams that make those systems possible. I draw from broad
-experience spanning entrepreneurship, product management, machine learning, data
-visualization, software engineering, human-computer interaction, experiment
-design, and economics.
+I enjoy learning new things, helping others learn new things, building products
+to help others learn new things, and building an organization that builds
+products to help others learn new things. After a research career spanning
+machine learning, human computation, and computational social science, I started
+Parsnip to build AI that helps people learn real-world skills, the way a good
+teacher would. I love solving interdisciplinary problems that sit at the
+intersection of technology, learning, and human behavior — the ones that need a
+bit of knowledge about everything.
 
 ## Experience
 
 ### ![Parsnip][parsnip-icon] [Parsnip]
 *2020—present*{: .right}
 *Co-founder and CEO*\\
-Parsnip ("Duolingo for cooking") applies the same feeling of "leveling up" in a
-video game to the real-life skill of cooking, so that anyone in the world can
-conveniently cook any cuisine at home. Our long term goal is to create a
-personalized AI companion for the home kitchen that teaches cooking and helps
-you figure out what's for dinner.
-
-Parsnip gained over 35k organic downloads, reached 4.9⭐ on the App Store, and
-was featured by Apple. Our [users loved us][user-love] and we [probably reached
-product-market fit][pmf].  We raised $450k from angel investors including the
-co-founders of Duolingo and a James Beard laureate, and learned a ton from
-making many mistakes.
+Parsnip lets users "level up" their real-life cooking with a competency-based
+personalized learning system that can teach any skill to any learner, any time.
+Our learning system generalizes to other domains such as K-12, higher education,
+and workforce training, serving as an AI-powered "learning infrastructure" that
+facilitates personalization for almost any learning product.
 
 [parsnip-icon]: /assets/icon-parsnip.png
 [Parsnip]: https://parsnip.ai
-[user-love]: https://www.notion.so/Product-Love-for-Parsnip-40c9f1c07ba2488cbb75cac2e804e909
-[pmf]: https://parsnip.substack.com/p/product-market-fit
 
 ### ![CTRL-labs][ctrl-icon] [CTRL-labs] ([acquired by Facebook][ctrl-fb])
 *2017—2019*{: .right}
@@ -92,6 +87,7 @@ microeconomic and social incentives][hcomp-incentives].
 [css]: https://www.microsoft.com/en-us/research/group/computational-social-science/
 [asi]: https://www.microsoft.com/en-us/research/group/adaptive-systems-and-interaction/
 
+<!--
 ### ![Goldman Sachs][gs-icon] **Goldman Sachs**
 *2008*{: .right}
 *Summer Analyst*, Equity Strategies (New York, NY)\\
@@ -99,6 +95,7 @@ microeconomic and social incentives][hcomp-incentives].
 *Summer Analyst*, Fixed Income Strategies (London, UK)
 
 [gs-icon]: /assets/icon-gs.svg
+-->
 
 ## Education
 
@@ -122,9 +119,9 @@ microeconomic and social incentives][hcomp-incentives].
 
 ## Qualifications
 
+<!--
 **Programming**: TypeScript, JavaScript (*highly proficient*); Go, Python (*proficient*); Java (*prior experience*).
 
-<!--
 **Databases & Systems**: PostgreSQL, MySQL, Linux, AWS, Devops.
 -->
 
@@ -132,7 +129,7 @@ microeconomic and social incentives][hcomp-incentives].
 communication.
 
 **Scientific Research**:
-[**11 peer-reviewed publications**](/research) with [over 780 citations][gs] (h-index: 11) in top computer science conferences (*AAAI*, *EC*, *HCOMP*) and interdisciplinary journals (*Nature Communications*, *PLoS ONE*) spanning artificial intelligence, human computation, and computational social science.
+[**12 peer-reviewed publications**](/research) with [over 1,200 citations][gs] (h-index: 12) in top computer science conferences (*AAAI*, *EC*, *HCOMP*) and interdisciplinary journals (*Nature Communications*, *PLoS ONE*) spanning artificial intelligence, human computation, and computational social science.
 [**31 invited talks**](/talks) at universities, research labs, and conferences worldwide.
 Program committee member for over 8 international conferences in computer science and computational social science, including WWW, IJCAI, AAAI, AAMAS, EC, HCOMP, and ICWSM. For details [see my CV](/cv).
 
@@ -140,8 +137,10 @@ Program committee member for over 8 international conferences in computer scienc
 
 **Open-source**: [TurkServer], a real-time web platform for conducting online experiments of collective behavior.
 [CrowdMapper], a collaborative crisis mapping web app for studying teamwork and collective intelligence ([see talk][cm-talk]).
+<!--
 Creator of [several widely used software packages][github] and active contributor in the OSS web development community.
 [Top 1% contributor on StackOverflow][so].
+--> 
 
 [turkserver]: https://github.com/TurkServer/turkserver-meteor
 [crowdmapper]: https://github.com/TurkServer/CrowdMapper

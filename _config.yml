@@ -22,7 +22,7 @@ markdown: kramdown
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: mizzao@gmail.com
+  email: mao@parsnip.ai
   facebook:
   flickr:
   github: mizzao
@@ -30,8 +30,8 @@ footer-links:
   linkedin: mizzao
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: mizzao
+  twitter: # no longer used / mizzao
   # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  stackoverflow: users/586086/andrew-mao
+  stackoverflow: # removed as of 6/24/2026 users/586086/andrew-mao
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
