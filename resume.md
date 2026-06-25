@@ -9,26 +9,43 @@ email: <mao@parsnip.ai>\\
 phone: +1 (302) 566-5456
 {: .right .padded}
 
-I enjoy learning new things, helping others learn new things, building products
-to help others learn new things, and building an organization that builds
-products to help others learn new things. After a research career spanning
-machine learning, human computation, and computational social science, I started
-Parsnip to build AI that helps people learn real-world skills, the way a good
-teacher would. I love solving interdisciplinary problems that sit at the
-intersection of technology, learning, and human behavior — the ones that need a
-bit of knowledge about everything.
+My work sits at the intersection of AI, learning science, and entrepreneurship.
+In my PhD at Harvard and postdoc at Microsoft Research, I used machine learning
+and computational social science to model human behavior and design rigorous
+experiments to study it at scale. I started Parsnip to deploy my research in
+real products, building AI learning infrastructure that models what a learner
+knows and helps them get better at real-world skills. Leading this project draws
+on my experience in building and evaluating ML systems, modeling human knowledge
+and behavior, shipping a live product to real learners, and experience in
+founding and running a company to make it all a reality.
 
 ## Experience
 
 ### ![Parsnip][parsnip-icon] [Parsnip]
 *2020—present*{: .right}
 *Co-founder and CEO*\\
+Building Parsnip Knowledge, an AI-native platform for skills-based personalized
+learning that models each learner's knowledge and generates instruction and
+assessment grounded in an interpretable knowledge graph of skills. Proven in our
+consumer cooking app — a deliberately messy, real-world domain with no existing
+curriculum — and built to generalize to K-12, higher education, and workforce
+training. Our interdisciplinary team spans ML, learning design, engineering, and
+go-to-market.
+
+Our company has raised $800k from angel investors including the co-founders of
+Duolingo, and generated over $2M of revenue to date. The [Parsnip app][app] has
+over 100k+ downloads across iOS and Android, 4.9⭐️ in the App Store, and has
+been featured by Apple. 
+
+[app]: https://apps.apple.com/us/app/parsnip-learn-to-cook/id1592325213
+
+<!-- 
 Parsnip lets users "level up" their real-life cooking with a competency-based
 personalized learning system that can teach any skill to any learner, any time.
 Our learning system generalizes to other domains such as K-12, higher education,
 and workforce training, serving as an AI-powered "learning infrastructure" that
 facilitates personalization for almost any learning product.
-
+ -->
 [parsnip-icon]: /assets/icon-parsnip.png
 [Parsnip]: https://parsnip.ai
 
@@ -36,15 +53,15 @@ facilitates personalization for almost any learning product.
 *2017—2019*{: .right}
 *Research Scientist & Product Manager* (New York, NY)\\
 Designed a machine learning platform for organizing 1TB+ of time series datasets
-& TensorFlow models, and automating model performance benchmarks on test data.
+& TensorFlow models and automating model performance benchmarks on test data.
 Prototyped 2D and 3D interaction applications for demonstrating user interface
 control via machine learning from electromyography data.
 
-Led a cross-team effort to build cloud infrastructure for training
-user-personalized machine learning models. Product manager for momentary
-event/signal detection from electromyography data, including R&D, data
-collection, accuracy metrics, user interface design, implementation, and product
-release.
+Led a cross-team effort to build cloud infrastructure for building, evaluating,
+and deploying many personalized ML models, a precursor to the "AI Kitchen"
+inside Parsnip. Product manager for momentary event/signal detection from
+electromyography data, including R&D, data collection, accuracy metrics, user
+interface design, implementation, and product release.
 
 [ctrl-icon]: /assets/icon-ctrl.png
 [CTRL-labs]: https://www.ctrl-labs.com/
@@ -148,10 +165,9 @@ Creator of [several widely used software packages][github] and active contributo
 [github]: https://github.com/mizzao
 [so]: https://stackoverflow.com/users/586086/andrew-mao
 
+<!--
 **Digital Fabrication**: CAD/CAM CNC machining, microcontroller programming and circuit design, laser cutting, 3D printing, casting and composites.
 See [my work from MIT's How to Make (Almost) Anything][htmaa].
+-->
 
 [htmaa]: http://fab.cba.mit.edu/classes/863.14/people/andrew_mao/
-
-##### [View the latest version of this resume](/resume).
-{: .right}
