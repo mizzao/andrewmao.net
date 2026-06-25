@@ -129,9 +129,9 @@ communication.
 -->
 
 **Scientific Research**:
-[**12 peer-reviewed publications**](/research) with [over 1,200 citations][gs] (h-index: 12) in top computer science conferences (*AAAI*, *EC*, *HCOMP*) and interdisciplinary journals (*Nature Communications*, *PLoS ONE*) spanning artificial intelligence, human computation, and computational social science.
-[**31 invited talks**](/talks) at universities, research labs, and conferences worldwide.
-Program committee member for over 8 international conferences in computer science and computational social science, including WWW, IJCAI, AAAI, AAMAS, EC, HCOMP, and ICWSM. For details [see my CV](/cv).
+[**12 peer-reviewed publications**]({{ "/research" | absolute_url }}) with [over 1,200 citations][gs] (h-index: 12) in top computer science conferences (*AAAI*, *EC*, *HCOMP*) and interdisciplinary journals (*Nature Communications*, *PLoS ONE*) spanning artificial intelligence, human computation, and computational social science.
+[**31 invited talks**]({{ "/talks" | absolute_url }}) at universities, research labs, and conferences worldwide.
+Program committee member for over 8 international conferences in computer science and computational social science, including WWW, IJCAI, AAAI, AAMAS, EC, HCOMP, and ICWSM. For details [see my CV]({{ "/cv" | absolute_url }}).
 
 [gs]: https://scholar.google.com/citations?user=_A4FmDSsqC8J
 
