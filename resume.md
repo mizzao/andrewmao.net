@@ -123,10 +123,10 @@ microeconomic and social incentives][hcomp-incentives].
 **Programming**: TypeScript, JavaScript (*highly proficient*); Go, Python (*proficient*); Java (*prior experience*).
 
 **Databases & Systems**: PostgreSQL, MySQL, Linux, AWS, Devops.
--->
 
 **Leadership**: Technical product management, project planning, oral & written
 communication.
+-->
 
 **Scientific Research**:
 [**12 peer-reviewed publications**](/research) with [over 1,200 citations][gs] (h-index: 12) in top computer science conferences (*AAAI*, *EC*, *HCOMP*) and interdisciplinary journals (*Nature Communications*, *PLoS ONE*) spanning artificial intelligence, human computation, and computational social science.
